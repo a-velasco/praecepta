@@ -4,8 +4,8 @@ Charmed Kubeflow
 Charmhub
 COS
 Juju
-Kubernetes
 Kubeflow
+Kubernetes
 Landscape
 Launchpad
 LXD
