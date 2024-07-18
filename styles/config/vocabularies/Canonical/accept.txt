@@ -1,9 +1,11 @@
+Anbox
 Anbox Cloud
 Charmed Kubeflow
 Charmhub
 COS
 Juju
 Kubernetes
+Kubeflow
 Landscape
 Launchpad
 LXD
@@ -20,6 +22,7 @@ OpenStack
 PostgreSQL
 Snapcraft
 snapd
+Ubuntu
 Ubuntu Core
 Ubuntu Pro
 Ubuntu Server
